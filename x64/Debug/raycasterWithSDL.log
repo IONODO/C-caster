@@ -1,0 +1,22 @@
+﻿  main.c
+C:\Users\Vikky\VS\raycasterWithSDL\raycasterWithSDL\main.c(33,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Vikky\VS\raycasterWithSDL\raycasterWithSDL\main.c(44,34): warning C4133: 'function': incompatible types - from 'SDL_Rect *' to 'const SDL_FRect *'
+C:\Users\Vikky\VS\raycasterWithSDL\raycasterWithSDL\main.c(62,38): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Vikky\VS\raycasterWithSDL\raycasterWithSDL\main.c(62,55): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Vikky\VS\raycasterWithSDL\raycasterWithSDL\main.c(73,36): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Vikky\VS\raycasterWithSDL\raycasterWithSDL\main.c(74,36): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Vikky\VS\raycasterWithSDL\raycasterWithSDL\main.c(78,18): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Vikky\VS\raycasterWithSDL\raycasterWithSDL\main.c(91,35): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Vikky\VS\raycasterWithSDL\raycasterWithSDL\main.c(91,38): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Vikky\VS\raycasterWithSDL\raycasterWithSDL\main.c(91,49): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Vikky\VS\raycasterWithSDL\raycasterWithSDL\main.c(91,52): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Vikky\VS\raycasterWithSDL\raycasterWithSDL\main.c(93,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Vikky\VS\raycasterWithSDL\raycasterWithSDL\main.c(66,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Vikky\VS\raycasterWithSDL\raycasterWithSDL\main.c(77,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Vikky\VS\raycasterWithSDL\raycasterWithSDL\main.c(83,37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Vikky\VS\raycasterWithSDL\raycasterWithSDL\main.c(84,34): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Vikky\VS\raycasterWithSDL\raycasterWithSDL\main.c(102,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Vikky\VS\raycasterWithSDL\raycasterWithSDL\main.c(103,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Vikky\VS\raycasterWithSDL\raycasterWithSDL\main.c(106,35): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Vikky\VS\raycasterWithSDL\raycasterWithSDL\main.c(107,35): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  raycasterWithSDL.vcxproj -> C:\Users\Vikky\VS\raycasterWithSDL\x64\Debug\raycasterWithSDL.exe
